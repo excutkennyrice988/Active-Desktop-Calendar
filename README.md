@@ -209,4 +209,4 @@ This repository serves as the official landing page for Active Desktop Calendar.
 **Get the most recent version of Active Desktop Calendar today!**
 
 ---
-**Last updated:** 2026-11-08 13:56:04 UTC
+**Last updated:** 2026-11-08 18:34:47 UTC
